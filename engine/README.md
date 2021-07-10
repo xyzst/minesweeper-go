@@ -11,7 +11,7 @@ Decision-making portion of the game
 ### Build from Source
 
 ```text
-$ cd minesweeper-engine
+$ cd engine
 $ go build -o ./ ./...
 $ ./cli
 ```

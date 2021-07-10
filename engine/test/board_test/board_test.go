@@ -1,7 +1,7 @@
 package board_test
 
 import (
-	b "github.com/rambaud-io/minesweeper-engine/internal/board"
+	b "github.com/xyzst/minesweeper-go/engine/internal/board"
 	"testing"
 )
 

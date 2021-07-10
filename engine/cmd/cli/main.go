@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	b "github.com/rambaud-io/minesweeper-engine/internal/board"
+	b "github.com/xyzst/minesweeper-go/engine/internal/board"
 )
 
 func main() {
